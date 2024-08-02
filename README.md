@@ -18,7 +18,7 @@ This project is a foundational example of a shopping list application built usin
 
   ### Screenshots
 
-![Screenshot 1](path_to_image/1.jpg)
+![Screenshot 1](1.jpg)
 ![Screenshot 2](path_to_image/2.jpg)
 ![Screenshot 3](path_to_image/3.jpg)
 ![Screenshot 4](path_to_image/4.jpg)
